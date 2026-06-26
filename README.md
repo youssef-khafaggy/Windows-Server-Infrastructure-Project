@@ -42,6 +42,8 @@ Technologies Used
 - Group Policy
 - IIS Web Server
 - File Server
+- File sharing and security per
+- ADC (WIN-SER CORE )
 - Print Server
 - Windows 10
 
